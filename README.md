@@ -5,9 +5,9 @@
 🔧 Technical Skills:
 
 ✨ Front-End Technologies: Next.js, React.js  
-🛠️ Back-End Development: Express.js  
-📊 Database Management: MongoDB, PostgreSQL, Firebase  
-🎨 UI/UX Styling: Tailwind CSS, ShadCN, Chakra UI  
+🛠️ Back-End Development: Express.js, Hono
+📊 Database Management: MongoDB, PostgreSQL, Firebase.
+🎨 UI/UX Styling: Tailwind CSS, ShadCN, Chakra UI.
 🖥️ System Design: Designing scalable systems
 
 ## 🌐 Socials:
