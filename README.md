@@ -1,10 +1,19 @@
 # 💫 About Me:
-👋 Hey there, I'm **Shubham Pawar**, a Full-Stack Developer with a passion for crafting dynamic, scalable, and user-centric web applications. I thrive on creating robust solutions focusing on performance and aesthetics. 🚀
+👋 Hey there, I'm Shubham Pawar, a Full-Stack Developer with a passion for building dynamic, scalable, and user-centric web applications. I specialize in creating robust solutions with a focus on performance and design. Whether it's crafting seamless user experiences or solving complex back-end challenges, I'm always up for it! 🚀
 
-🌱 **Currently Exploring:** AI Integration, Serverless Architectures, and Advanced System Design.
+🔧 **Technical Skills:**
+
+✨ **Front-End Technologies**: Next.js, React.js, TypeScript, ShadCN  
+🛠️ **Back-End Development**: Express.js, Hono, Node.js  
+📊 **Database Management**: MongoDB, PostgreSQL, Firebase  
+🎨 **UI/UX Styling**: Tailwind CSS, ShadCN, Chakra UI, DaisyUI  
+📈 **DevOps & Cloud**: AWS, Cloudflare, Cloudinary, Uploadcare, Vercel, Render  
+🖥️ **State Management**: Redux, Zustand  
+📊 **System Design**: Architecting scalable and high-performance systems  
+🌱 **Currently Exploring**: AI Integration in Web Development, Serverless Architectures, and Advanced System Design.
+
 
 ---
-
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/shubham-pawar-4231311a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
