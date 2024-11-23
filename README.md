@@ -18,28 +18,10 @@
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/shubham-pawar-4231311a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Shubhampawar484"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter" /></a>
-  <a href="https://leetcode.com/shubhampawar4841/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/shubhampa9xnw/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-</div>
-
----
-
-# 💫 About Me:
-👋 Hey there, I'm **Shubham Pawar**, a Full-Stack Developer with a passion for crafting dynamic, scalable, and user-centric web applications. I thrive on creating robust solutions focusing on performance and aesthetics. 🚀
-
-🌱 **Currently Exploring:** AI Integration, Serverless Architectures, and Advanced System Design.
-
----
-
-## 🌐 Socials:
-<div style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.linkedin.com/in/shubham-pawar-4231311a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/Shubhampawar484"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter" /></a>
   <a href="https://leetcode.com/shubhampawar4036/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://auth.geeksforgeeks.org/user/shubhampa9xnw/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </div>
 
----
 
 ## 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around;">
@@ -84,16 +66,3 @@
 
 
 ---
-
-## 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhampawar4841&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar4841&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampawar4841&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=shubhampawar4841&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
