@@ -12,8 +12,8 @@
 📊 **System Design**: Architecting scalable and high-performance systems  
 🌱 **Currently Exploring**: AI Integration in Web Development, Serverless Architectures, and Advanced System Design.
 
-
 ---
+
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/shubham-pawar-4231311a4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,6 +22,7 @@
   <a href="https://auth.geeksforgeeks.org/user/shubhampa9xnw/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </div>
 
+---
 
 ## 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-around;">
@@ -55,14 +56,20 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhampawar4841&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar4841&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampawar4841&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shubhampawar4841&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+## 🚀 Activity Graph:
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhampawar4841&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true">
+  </a>
+</p>
 
 ---
+
+## 🏆 LeetCode Stats:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shubhampawar4036?theme=light&font=Nanum%20Gothic&ext=heatmap" alt="LeetCode Stats" />
+</p>
