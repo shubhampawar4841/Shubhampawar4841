@@ -81,7 +81,7 @@
 
 ## 🏆 LeetCode Stats:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shubhampawar4036?theme=dark&font=Nanum%20Gothic&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Kshitijgith?theme=dark&font=Nanum%20Gothic&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
