@@ -72,7 +72,7 @@
 
 ## 🚀 Activity Graph:
 <p align="center">
-  <a href="https://github.com/kshtijgith/github-readme-activity-graph">
+  <a href="https://github.com/shubhampawar4841/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhampawar4841&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true">
   </a>
 </p>
