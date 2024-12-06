@@ -1,6 +1,6 @@
 # ✨ About Me:
 
-👋 Hey there, I'm **Shubham Pawar**, a Full-Stack Developer with a passion for building dynamic, scalable, and user-centric web applications. I specialize in creating robust solutions with a focus on performance and design. Whether it's crafting seamless user experiences or solving complex back-end challenges, I'm always up for it! 🚀
+‍✨ Hey there, I'm **Shubham Pawar**, a Full-Stack Developer with a passion for building dynamic, scalable, and user-centric web applications. I specialize in creating robust solutions with a focus on performance and design. Whether it's crafting seamless user experiences or solving complex back-end challenges, I'm always up for it! ”—
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+## ὒ3 GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhampawar4841&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar4841&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -70,22 +70,15 @@
 
 ---
 
-## 🚀 Activity Graph:
+## ⎵ LeetCode Stats:
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhampawar4841&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true">
-  </a>
+  <img src="https://leetcard.jacoblin.cool/shubhampawar4036?theme=light&font=Nanum%20Gothic&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
 
-## 🏆 LeetCode Stats:
+## 💞 Contributions:
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/shubhampawar4036?theme=dark&font=Nanum%20Gothic&ext=contest" alt="LeetCode Stats" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=shubhampawar4036&show_icons=true&hide_title=true" alt="Contributions" />
 </p>
-
----
-
-## 😎 Fun Fact:
-When I'm not coding, you can find me exploring new tech, diving into history—especially the **Indus Valley Civilization**—or experimenting with AI tools to enhance productivity.
 
