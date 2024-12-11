@@ -1,7 +1,6 @@
 # ✨ About Me:
 
-👋 Hey there, I'm **Shubham Pawar**, a Full-Stack Developer with a passion for building dynamic, scalable, and user-centric web applications. I specialize in creating robust solutions with a focus on performance and design. Whether it's crafting seamless user experiences or solving complex back-end challenges, I'm always up for it! 🚀
-
+👋 Hey there, I'm **Shubham Pawar**, a Full-Stack Developer.🚀
 ---
 
 ## 🔧 **Technical Skills:**
