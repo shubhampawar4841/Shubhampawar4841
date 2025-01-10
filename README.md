@@ -11,7 +11,6 @@
 - 🎨 **UI/UX Styling**: Tailwind CSS, ShadCN, Chakra UI, DaisyUI
 - 📊 **DevOps & Cloud**: AWS, Cloudflare, Cloudinary, Uploadcare, Vercel, Render
 - 💻 **State Management**: Redux, Zustand
-- 📊 **System Design**: Architecting scalable and high-performance systems
 - 🌱 **Currently Exploring**: AI Integration in Web Development, Serverless Architectures, and Advanced System Design
 
 ---
