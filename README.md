@@ -26,30 +26,29 @@
 
   - Built using **React, Firebase, and Tailwind CSS**  
   - Features: **Real-time chat, user authentication, post creation, likes, comments, and friend requests**  
-  - Utilized **Firebase Auth & JWT for secure authentication**  
-  - Deployed on **Vercel**  
-  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
+  - Utilized **Firebase Auth & JWT for secure authentication**   
+  - [Demo](#) | [Code](https://github.com/shubhampawar4841/LoopConnect)  
 </details>  
 
 <details>  
-  <summary><strong>Stylio</strong> - Full-Stack eCommerce Platform</summary>  
+  <summary><strong>WearHouse</strong> - Full-Stack eCommerce Platform</summary>  
 
   - Built using **MERN Stack, Tailwind CSS, and ShadCN UI**  
   - Features: **Secure payments, product management, order tracking, user authentication, and an admin dashboard**  
   - Optimized for **performance & scalability**  
-  - Deployed on **Render**  
-  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
+  - Deployed on **Vercel**  
+  - [Demo](https://ecommerce-web-five-psi.vercel.app) | [Code](https://github.com/shubhampawar4841/WearHouse)  
 </details>  
 
 <details>  
   <summary><strong>Medium Clone</strong> - Scalable Blogging Platform</summary>  
 
   - Built using **React.js, TypeScript, Node.js, PostgreSQL, and Prisma**  
-  - Achieved **30% performance improvement** through optimized architecture  
+  - Achieved **performance improvement** through optimized architecture  
   - Implemented **JWT-based authentication & Zod validation**, reducing security vulnerabilities by  
   - Optimized database operations with **PostgreSQL connection pooling**, making data retrieval faster**  
-  - Deployed **microservices architecture on Cloudflare Workers**, ensuring **99.9% uptime & lower latency**  
-  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
+  - Deployed **microservices architecture on Cloudflare Workers**, ensuring uptime & lower latency**  
+  - [Demo](https://medium-blog-simple.vercel.app) | [Code](https://github.com/shubhampawar4841/Medium)  
 </details>  
 
 <details>  
@@ -59,7 +58,7 @@
   - Used by **1000+ students & faculty** to **store, manage, and collaborate on projects**  
   - Integrated **real-time chat, group management, and approval workflows**, improving team efficiency  
   - Designed a **secure admin panel for onboarding & access control**, ensuring seamless project tracking  
-  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
+  - [Demo](https://v-ideass.vercel.app) | [Code]([https://github.com/shubhampawar4841/](https://github.com/Kshitijgith/V-Ideass)  
 </details>  
 
 <details>  
@@ -69,7 +68,7 @@
   - Enables **secure money transfers, user authentication, and account management**  
   - Developed **backend with Express.js & MongoDB**, ensuring **secure API routes & database integrity**  
   - Built a **responsive UI with React & Vite**, supporting **transaction history, balance tracking & friend search**  
-  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
+  - [Demo](#) | [Code](https://github.com/shubhampawar4841/Paytm-)  
 </details>  
 
 ---
