@@ -15,8 +15,54 @@
 
 ---
 
-🚀 Projects:
-<details> <summary>📌 <b>LoopConnect</b> - A Social Media App</summary> - Built with **React, Firebase, Tailwind CSS** - Features **real-time chat, user authentication, and posts** - Secure authentication with **Firebase Auth & JWT** - Deployed on **Vercel** 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#) </details> <details> <summary>📌 <b>Stylio</b> - Full-Stack eCommerce Platform</summary> - **MERN Stack + Tailwind CSS + ShadCN UI** - **Secure payments, user authentication, and admin dashboard** - Optimized **performance & scalability** - Deployed on **Render** 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#) </details> <details> <summary>📌 <b>vPrint</b> - College Project Repository</summary> - **Next.js, PostgreSQL, Prisma ORM, Tailwind CSS** - Stores and manages **past student projects & guides** - **Advanced search & filtering features** - Deployed on **Cloudflare Workers** 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#) </details> <details> <summary>📌 <b>Dynamic Chat</b> - Real-time Messaging App</summary> - **MERN + Socket.io + Zustand for state management** - **Live user status, message notifications, and group chats** - JWT-based authentication & error handling - Deployed on **Render** 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#) </details>
+Here's the updated version with **bullet points in sequence** under each project:  
+
+---
+
+## 🚀 **Projects:**  
+
+<details>
+  <summary>📌 <b>LoopConnect</b> - A Social Media App</summary>  
+  - Built with **React, Firebase, Tailwind CSS**  
+  - Implements **real-time chat and user authentication**  
+  - Supports **post creation, likes, comments, and friend requests**  
+  - Uses **Firebase Auth & JWT for secure authentication**  
+  - Deployed on **Vercel**  
+  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+</details>  
+
+<details>
+  <summary>📌 <b>Stylio</b> - Full-Stack eCommerce Platform</summary>  
+  - Built using **MERN Stack, Tailwind CSS, and ShadCN UI**  
+  - Features **secure payments, product management, and order tracking**  
+  - Includes **user authentication and admin dashboard**  
+  - Optimized for **performance & scalability**  
+  - Deployed on **Render**  
+  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+</details>  
+
+<details>
+  <summary>📌 <b>vPrint</b> - College Project Repository</summary>  
+  - Developed using **Next.js, PostgreSQL, Prisma ORM, and Tailwind CSS**  
+  - Stores and manages **past student projects & guides**  
+  - Implements **advanced search & filtering features**  
+  - Uses **Cloudflare Workers for deployment**  
+  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+</details>  
+
+<details>
+  <summary>📌 <b>Dynamic Chat</b> - Real-time Messaging App</summary>  
+  - Built with **MERN + Socket.io + Zustand for state management**  
+  - Supports **real-time messaging with live user status**  
+  - Implements **group chats, notifications, and message persistence**  
+  - Uses **JWT-based authentication & error handling**  
+  - Deployed on **Render**  
+  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+</details>  
+
+---
+
+Now, each project has **bullet points stacked sequentially** for better readability. Let me know if you need any changes! 🚀
 
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
