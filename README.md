@@ -15,54 +15,65 @@
 
 ---
 
-Here's the updated version with **bullet points in sequence** under each project:  
+
 
 ---
 
-## 🚀 **Projects:**  
+## 🚀 Some of My Favourite Projects Built During My Engineering 😤  
 
-<details>
-  <summary>📌 <b>LoopConnect</b> - A Social Media App</summary>  
-  - Built with **React, Firebase, Tailwind CSS**  
-  - Implements **real-time chat and user authentication**  
-  - Supports **post creation, likes, comments, and friend requests**  
-  - Uses **Firebase Auth & JWT for secure authentication**  
+<details>  
+  <summary><strong>LoopConnect</strong> - A Social Media App</summary>  
+
+  - Built using **React, Firebase, and Tailwind CSS**  
+  - Features: **Real-time chat, user authentication, post creation, likes, comments, and friend requests**  
+  - Utilized **Firebase Auth & JWT for secure authentication**  
   - Deployed on **Vercel**  
-  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
 </details>  
 
-<details>
-  <summary>📌 <b>Stylio</b> - Full-Stack eCommerce Platform</summary>  
+<details>  
+  <summary><strong>Stylio</strong> - Full-Stack eCommerce Platform</summary>  
+
   - Built using **MERN Stack, Tailwind CSS, and ShadCN UI**  
-  - Features **secure payments, product management, and order tracking**  
-  - Includes **user authentication and admin dashboard**  
+  - Features: **Secure payments, product management, order tracking, user authentication, and an admin dashboard**  
   - Optimized for **performance & scalability**  
   - Deployed on **Render**  
-  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
 </details>  
 
-<details>
-  <summary>📌 <b>vPrint</b> - College Project Repository</summary>  
-  - Developed using **Next.js, PostgreSQL, Prisma ORM, and Tailwind CSS**  
-  - Stores and manages **past student projects & guides**  
-  - Implements **advanced search & filtering features**  
-  - Uses **Cloudflare Workers for deployment**  
-  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+<details>  
+  <summary><strong>Medium Clone</strong> - Scalable Blogging Platform</summary>  
+
+  - Built using **React.js, TypeScript, Node.js, PostgreSQL, and Prisma**  
+  - Achieved **30% performance improvement** through optimized architecture  
+  - Implemented **JWT-based authentication & Zod validation**, reducing security vulnerabilities by  
+  - Optimized database operations with **PostgreSQL connection pooling**, making data retrieval faster**  
+  - Deployed **microservices architecture on Cloudflare Workers**, ensuring **99.9% uptime & lower latency**  
+  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
 </details>  
 
-<details>
-  <summary>📌 <b>Dynamic Chat</b> - Real-time Messaging App</summary>  
-  - Built with **MERN + Socket.io + Zustand for state management**  
-  - Supports **real-time messaging with live user status**  
-  - Implements **group chats, notifications, and message persistence**  
-  - Uses **JWT-based authentication & error handling**  
-  - Deployed on **Render**  
-  - 🔗 [GitHub Repo](https://github.com/shubhampawar4036) | 🌐 [Live Demo](#)  
+<details>  
+  <summary><strong>V-Ideas</strong> - College Project Management Platform</summary>  
+
+  - Built using **React.js, Node.js, MongoDB, Socket.IO, JWT, and TailwindCSS**  
+  - Used by **1000+ students & faculty** to **store, manage, and collaborate on projects**  
+  - Integrated **real-time chat, group management, and approval workflows**, improving team efficiency  
+  - Designed a **secure admin panel for onboarding & access control**, ensuring seamless project tracking  
+  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
+</details>  
+
+<details>  
+  <summary><strong>Paytm App</strong> - Secure Payments Application</summary>  
+
+  - Built using **React.js, Node.js, Express, MongoDB, Vite, and TailwindCSS**  
+  - Enables **secure money transfers, user authentication, and account management**  
+  - Developed **backend with Express.js & MongoDB**, ensuring **secure API routes & database integrity**  
+  - Built a **responsive UI with React & Vite**, supporting **transaction history, balance tracking & friend search**  
+  - [Demo](#) | [Code](https://github.com/shubhampawar4036)  
 </details>  
 
 ---
 
-Now, each project has **bullet points stacked sequentially** for better readability. Let me know if you need any changes! 🚀
 
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
