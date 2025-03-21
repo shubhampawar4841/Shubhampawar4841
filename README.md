@@ -16,13 +16,6 @@
 ---
 
 
-
----
-
-
----
-
-
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/shubham-pawar-4231311a4/">
