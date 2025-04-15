@@ -74,17 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhampawar4841&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
-## 🚀 Activity Graph:
-<p align="center">
-  <a href="https://github.com/shubhampawar4841/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhampawar4841&bg_color=282a35&color=ffffff&line=ec7696&point=ffffff&area=true&hide_border=true">
-  </a>
-</p>
-
-
----
 
 ## 😎 Fun Fact:
 When I'm not coding, you can find me exploring new tech, diving into history—especially the **Indus Valley Civilization**—or experimenting with AI tools to enhance productivity.
