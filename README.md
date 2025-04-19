@@ -5,11 +5,11 @@
 
 ## 🔧 **Technical Skills:**
 
-- ✨ **Front-End Technologies**: Next.js, React.js, TypeScript, ShadCN
-- 🔧 **Back-End Development**: Express.js, Hono, Node.js
-- 📊 **Database Management**: MongoDB, PostgreSQL, Firebase
-- 🎨 **UI/UX Styling**: Tailwind CSS, ShadCN, Chakra UI, DaisyUI
-- 📊 **DevOps & Cloud**: AWS, Cloudflare, Cloudinary, Uploadcare, Vercel, Render
+- ✨ **Front-End Technologies**: Next.js, React.js, TypeScript, ShadCN, Radix.
+- 🔧 **Back-End Development**: Express.js, Hono, Node.js, Clerk.
+- 📊 **Database Management**: MongoDB, PostgreSQL, Firebase, Supabase.
+- 🎨 **UI/UX Styling**: Tailwind CSS, ShadCN, Chakra UI, DaisyUI.
+- 📊 **DevOps & Cloud**: AWS, Cloudflare, Cloudinary, Uploadcare, Vercel, Render.
 - 💻 **State Management**: Redux, Zustand
 - 🌱 **Currently Exploring**: AI Integration in Web Development, Serverless Architectures, and Advanced System Design
 
