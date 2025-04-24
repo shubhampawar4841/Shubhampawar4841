@@ -1,7 +1,6 @@
 # ✨ About Me:
 
-👋 Hey there, I'm **Shubham Pawar**, a Full-Stack Developer.🚀
-
+👋 Hey there,Let's have some vibe coding
 
 ## 🔧 **Technical Skills:**
 
