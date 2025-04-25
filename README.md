@@ -2,19 +2,6 @@
 
 👋 Hey there,Let's have some vibe coding
 
-## 🔧 **Technical Skills:**
-
-- ✨ **Front-End Technologies**: Next.js, React.js, TypeScript, ShadCN, Radix.
-- 🔧 **Back-End Development**: Express.js, Hono, Node.js, Clerk.
-- 📊 **Database Management**: MongoDB, PostgreSQL, Firebase, Supabase.
-- 🎨 **UI/UX Styling**: Tailwind CSS, ShadCN, Chakra UI, DaisyUI.
-- 📊 **DevOps & Cloud**: AWS, Cloudflare, Cloudinary, Uploadcare, Vercel, Render.
-- 💻 **State Management**: Redux, Zustand
-- 🌱 **Currently Exploring**: AI Integration in Web Development, Serverless Architectures, and Advanced System Design
-
----
-
-
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/shubham-pawar-4231311a4/">
