@@ -1,5 +1,5 @@
 # ✨ About Me:
-👋 Hey there, let's have some vibe coding!
+👋 Hey there!
 
 ## 🌐 Socials:
 <div style="display: flex; align-items: center; gap: 15px;">
