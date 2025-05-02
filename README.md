@@ -1,4 +1,4 @@
-# ✨ About Me:
+
 👋 Hey there!
 
 ## 🌐 Socials:
