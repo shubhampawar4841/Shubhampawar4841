@@ -43,9 +43,11 @@
   <img src="https://img.shields.io/badge/clerk-%23410098.svg?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk.js" />
   <img src="https://img.shields.io/badge/nextauth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth" />
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/render-%230066CC.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/django%233448C5.svg?style=for-the-badge&logo=Djan&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/render-%230066CC.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/pipecat-A020F0.svg?style=for-the-badge&logoColor=white" alt="Pipecat" />
+
 
 </div>
 
