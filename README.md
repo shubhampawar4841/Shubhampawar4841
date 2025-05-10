@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/render-%230066CC.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/pipecat-A020F0.svg?style=for-the-badge&logoColor=white" alt="Pipecat" />
 
 
 </div>
